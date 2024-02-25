@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkfizichim_v_3_1=self.webpackChunkfizichim_v_3_1||[]).push([[373],{489:i=>{i.exports=JSON.parse('{"label":"facebook","permalink":"/fizichim_v3/blog/tags/facebook","allTagsPath":"/fizichim_v3/blog/tags","count":1,"unlisted":false}')}}]);
