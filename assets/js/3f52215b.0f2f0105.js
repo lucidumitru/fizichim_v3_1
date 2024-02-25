@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfizichim_v_3_1=self.webpackChunkfizichim_v_3_1||[]).push([[6811],{3342:e=>{e.exports=JSON.parse('{"permalink":"/fizichim_v3/blog/tags/hola","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
